@@ -20,7 +20,7 @@
 .bgimage{
   background: linear-gradient(rgba(0, 0, 0,0.55), rgba(39, 39, 39, 0.55)),url("https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhTwb_XJelDeSPtBe_pVq3P1EpaXtVIzhHO5B62u7LeLhwmZs-6M2h18a0wLjU2e-d_fHLlvSmyD2FPWeu01ZemVFvPjZ8SENpNIIV0EHWdkba0DI3lQCx2ULI7R97e7xGBtqv2DHdSdB9Np1q9b-kPiseezl0DEOYX0cbEOV2nhAbh3wxDwLIq4FMw-MM/s2000/backgroungimg.png");
   background-size: 100%;
-  width: auto%;
+  width: 50%;
   height: 100vh;
   position: fixed;
     top: 0vh;
